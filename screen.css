@@ -1,1 +1,13 @@
-
+#title, #author, #isbn {
+    border: 1px solid black;
+  }
+  
+  table {
+    text-align: center;
+    width: 100%;
+    border: 2px solid black;
+  }
+  
+  ul {
+    padding: 0;
+  }
