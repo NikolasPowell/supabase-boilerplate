@@ -22,3 +22,8 @@ for (let book of books) {
   let favIsbn = document.getElementById('isbn');
   favIsbn.innerHTML += `<ul>${book.isbn}</ul>`;
 }
+
+for (let book of books) {
+    let favIsbn = document.getElementById('description');
+    favIsbn.innerHTML += `<ul>${book.description}</ul>`;
+  }
