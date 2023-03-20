@@ -32,14 +32,47 @@ ul {
 }
 
 th {
-  background-color: green;
   color: white;
 }
 
-.titleT {
+.numberT {
   border-radius: 10px 0px 0px 0px;
+  background-color: green;
 }
 
 .descriptionT {
   border-radius: 0px 10px 0px 0px;
+  background-color: green;
+}
+
+.titleT {
+  background-color: green;
+}
+
+.authorT {
+  background-color: green;
+}
+
+.isbnT {
+  background-color: green;
+}
+
+.oneT {
+  background-color: lightblue;
+}
+
+.twoT {
+  background-color: lightblue;
+}
+
+.threeT {
+  background-color: lightblue;
+}
+
+.fourT {
+  background-color: lightblue;
+}
+
+.fiveT {
+  background-color: lightblue;
 }
