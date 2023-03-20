@@ -1,7 +1,6 @@
 #title {
   border: 1px solid black;
   background-color: lightblue;
-  border-radius: 0px 0px 0px 10px;
 }
 
 #author {
@@ -17,7 +16,6 @@
 #description {
   border: 1px solid black;
   background-color: lightblue;
-  border-radius: 0px 0px 10px 0px;
 }
   
 table {
@@ -36,12 +34,10 @@ th {
 }
 
 .numberT {
-  border-radius: 10px 0px 0px 0px;
   background-color: green;
 }
 
 .descriptionT {
-  border-radius: 0px 10px 0px 0px;
   background-color: green;
 }
 
