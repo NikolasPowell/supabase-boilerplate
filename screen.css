@@ -20,7 +20,7 @@
   border-radius: 0px 0px 10px 0px;
 }
   
-table tr:nth-child(even){
+table {
   text-align: center;
   width: 100%;
   border: 2px solid black;
