@@ -20,7 +20,7 @@
   border-radius: 0px 0px 10px 0px;
 }
   
-table, td {
+table {
   text-align: center;
   width: 100%;
   border: 2px solid black;
@@ -34,6 +34,10 @@ ul {
 th {
   background-color: green;
   color: white;
+}
+
+td {
+  border: 1px solid black;
 }
 
 .titleT {
